@@ -10,7 +10,7 @@ freedom_df = pd.read_csv("Data/hfi_cc_2019.csv")[['year', 'hf_score', 'pf_rol',
                                                   'pf_identity', 'ef_government', 'ef_legal', 
                                                   'ef_money', 'ef_trade', 'ef_trade_regulatory']]
 
-countries_regions_df = pd.read_csv("Data/hfi_cc_2019.csv")[["year", "countries", "region"]]
+countries_regions_df = pd.read_csv("Data/hfi_cc_2019.csv")[["year","ISO_code", "countries", "region"]]
 
 # Selecting desired year
 def year(df, year):
