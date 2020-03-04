@@ -23,13 +23,13 @@ The Human Freedom Index
 - Conducted EDA
 - Regression model 
 - Worked on presentaton materials 
+- Prepared presentation
 
 [Zaki Jefferson](https://github.com/jeffersonzaki)
-Conducted EDA
-Created World Map for presentation 
-Catagorize States into different regions
-Graphed plot for presentation
-Prepared presentation
+- Conducted EDA
+- Created World Map for presentation 
+- Catagorize States into different regions
+- Graphed plot for presentation
 
 
 ### Summary of Contents:
