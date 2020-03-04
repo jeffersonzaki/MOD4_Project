@@ -1,6 +1,6 @@
 # Human Freedom Index 
 
-### Project File Summary
+### Summary of Contents
 - [Data](https://github.com/Lidetsal/MOD4_Project/tree/zj/Data) - Shows csv and json files of the data that has been used to create the project.
 
 - [Cleaning Data](https://github.com/Lidetsal/MOD4_Project/blob/zj/cleaning_data.ipynb) - Shows the process of cleaning the data.
@@ -41,10 +41,6 @@ Using the human freedom index, this project assessed the relationships between f
 - Catagorize States into different regions
 - Graphed plot for presentation
 
-
-### Summary of Contents:
-Master Notebook
-Data
 
 ### Data
 - [Cato Institute](https://www.cato.org/human-freedom-index-new)
