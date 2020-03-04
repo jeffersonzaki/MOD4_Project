@@ -1,7 +1,7 @@
 # Human Freedom Index 
 Using the human freedom index, this project assessed the relationships between freedom and other social , political and economic factors that impact a country’s freedom index score. Using regression model, we are aiming to understand phenomenons that have a strong correlation with a higher freedom score.
 
-### Summary of Contents
+## Summary of Contents
 - [Data](https://github.com/Lidetsal/MOD4_Project/tree/zj/Data) - Shows csv and json files of the data that has been used to create the project.
 
 - [Cleaning Data](https://github.com/Lidetsal/MOD4_Project/blob/zj/cleaning_data.ipynb) - Shows the process of cleaning the data.
@@ -16,20 +16,20 @@ Using the human freedom index, this project assessed the relationships between f
 
 
 
-### Project Members:
+## Project Members:
 - [Lidet Alemu](https://github.com/Lidetsal)
 
 - [Zaki Jefferson](https://github.com/jeffersonzaki)
 
 
-### Project Scenario
+## Project Scenario
 We are representing the United Nations Development Programme to help guide aide to where it is most needed.
 Over the past 5 years the Human Freedom Index scores, for many countries, have decreased.
 We want to find the reason for this, if it is security, economical, or political reasons, and give aide to
 those specific areas to help increase the Human Freedom Index.
  
 
-### Responsibilities/Task:
+## Responsibilities/Task:
 [Lidet Alemu](https://github.com/Lidetsal)
 - Collected Data 
 - Conducted EDA
@@ -44,6 +44,6 @@ those specific areas to help increase the Human Freedom Index.
 - Graphed plot for presentation
 
 
-### Data
+## Data
 - [Cato Institute](https://www.cato.org/human-freedom-index-new)
 - [Kaggle](https://www.kaggle.com/gsutters/the-human-freedom-index#hfi_cc_2019.csv)
