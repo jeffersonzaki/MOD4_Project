@@ -1,5 +1,4 @@
-# MOD4_Project
-The Human Freedom Index 
+# Human Freedom Index 
 
 
 ### Project Scenario
