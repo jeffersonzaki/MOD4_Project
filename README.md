@@ -18,7 +18,6 @@ The Human Freedom Index
 
 ### Responsibilities/Task:
 [Lidet Alemu](https://github.com/Lidetsal)
-
 - Collected Data 
 - Conducted EDA
 - Regression model 
