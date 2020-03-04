@@ -7,7 +7,7 @@ The Human Freedom Index
 
 
 
-## Project Members:
+### Project Members:
 [Lidet Alemu](https://github.com/Lidetsal)
 [Zaki Jefferson](https://github.com/jeffersonzaki)
 
