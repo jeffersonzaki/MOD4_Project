@@ -25,11 +25,11 @@ The Human Freedom Index
 - Worked on presentaton materials 
 
 [Zaki Jefferson](https://github.com/jeffersonzaki)
-- Conducted EDA
-- Created World Map for presentation 
-- Catagorize States into different regions
-- Graphed plot for presentation
-- Prepared presentation
+Conducted EDA
+Created World Map for presentation 
+Catagorize States into different regions
+Graphed plot for presentation
+Prepared presentation
 
 
 ### Summary of Contents:
