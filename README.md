@@ -1,7 +1,8 @@
 # MOD4_Project
 The Human Freedom Index 
 
-This project aims to answer 2 questions
+ Using the human freedom index, this project assessed the relationships between freedom and other social , political and economic factors that impact a country’s freedom index score. Using regression model, we are aiming to understand phenomenons that have a strong correlation with a higher freedom score. 
+
 
 
 
