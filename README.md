@@ -1,4 +1,5 @@
 # Human Freedom Index 
+Using the human freedom index, this project assessed the relationships between freedom and other social , political and economic factors that impact a country’s freedom index score. Using regression model, we are aiming to understand phenomenons that have a strong correlation with a higher freedom score.
 
 ### Summary of Contents
 - [Data](https://github.com/Lidetsal/MOD4_Project/tree/zj/Data) - Shows csv and json files of the data that has been used to create the project.
@@ -22,9 +23,7 @@
 
 
 ### Project Scenario
-
-
-Using the human freedom index, this project assessed the relationships between freedom and other social , political and economic factors that impact a country’s freedom index score. Using regression model, we are aiming to understand phenomenons that have a strong correlation with a higher freedom score. 
+ 
  
 
 ### Responsibilities/Task:
