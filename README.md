@@ -9,9 +9,10 @@ The Human Freedom Index
 
 ### Project Members:
 [Lidet Alemu](https://github.com/Lidetsal)
+
 [Zaki Jefferson](https://github.com/jeffersonzaki)
 
-## Responsibilities/Task:
+### Responsibilities/Task:
 [Lidet Alemu](https://github.com/Lidetsal)
 
 - Collected Data 
@@ -27,10 +28,10 @@ The Human Freedom Index
 - Prepared presentation
 
 
-## Summary of Contents:
+### Summary of Contents:
 Master Notebook
 Data
 
-## Data
+### Data
 - [Cato Institute](https://www.cato.org/human-freedom-index-new)
 - [Kaggle](https://www.kaggle.com/gsutters/the-human-freedom-index#hfi_cc_2019.csv)
