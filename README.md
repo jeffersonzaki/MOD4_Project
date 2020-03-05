@@ -23,11 +23,7 @@ Using the human freedom index, this project assessed the relationships between f
 
 
 ## Project Scenario
-We are representing the United Nations Development Programme to help guide aide to where it is most needed.
-Over the past 5 years the Human Freedom Index scores, for many countries, have decreased.
-We want to find the reason for this, if it is security, economical, or political reasons, and give aide to
-those specific areas to help increase the Human Freedom Index.
- 
+We are a non government organization that conduct research and generate action to prevent abuses of human rights and to demand justice for those whose rights have been violated. We are approaching the United Nations Development Programme to help guide aide to where it is most needed using the recent human freedom index score.Over the past 5 years the Human Freedom Index score, for many countries has decreased. Our study aims to find significant contributors of freedom globally, as it is measured by the human freedom index score variables. 
 
 ## Responsibilities/Task:
 [Lidet Alemu](https://github.com/Lidetsal)
