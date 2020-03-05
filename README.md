@@ -12,6 +12,8 @@ Using the human freedom index, this project assessed the relationships between f
 
 - [Python File](https://github.com/Lidetsal/MOD4_Project/blob/zj/functions.py) - Holds useful varibales and functions.
 
+- [Human Freedom Score Map](https://github.com/Lidetsal/MOD4_Project/blob/master/humanFreedomScoreMap.html) - Shows html of the map created to shows all countries with their human freedom score.
+
 - [Regression](https://github.com/Lidetsal/MOD4_Project/blob/zj/regression.ipynb) - Shows 5 assumptions, training and testing sets, linear regression, and different transformations/comparisions of the data.
 
 
