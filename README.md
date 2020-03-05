@@ -2,21 +2,19 @@
 Using the human freedom index, this project assessed the relationships between freedom and other social , political and economic factors that impact a country’s freedom index score. Using regression model, we are aiming to understand phenomenons that have a strong correlation with a higher freedom score.
 
 ## Summary of Contents
-- [Data](https://github.com/Lidetsal/MOD4_Project/tree/zj/Data) - Shows csv and json files of the data that has been used to create the project.
+- [Data](https://github.com/Lidetsal/MOD4_Project/tree/master/Data) - Shows csv and json files of the data that has been used to create the project.
 
-- [Cleaning Data](https://github.com/Lidetsal/MOD4_Project/blob/zj/cleaning_data.ipynb) - Shows the process of cleaning the data.
+- [Cleaning Data](https://github.com/Lidetsal/MOD4_Project/blob/master/cleaning_data.ipynb) - Shows the process of cleaning the data.
 
-- [Exploratory Analysis](https://github.com/Lidetsal/MOD4_Project/blob/zj/exploratory_data_analysis.ipynb) - Shows outliers, distributions, mean and standard deviation of the independent variable and dependent variable.
+- [Exploratory Analysis](https://github.com/Lidetsal/MOD4_Project/blob/master/exploratory_data_analysis.ipynb) - Shows outliers, distributions, mean and standard deviation of the independent variable and dependent variable.
 
-- [Freedom Index Map](https://github.com/Lidetsal/MOD4_Project/blob/master/freedom_index_map.ipynb) - Shows source code on how the map, which shows countries along with their freedom score, was built.
+- [Freedom Index Map](https://github.com/Lidetsal/MOD4_Project/blob/master/freedom_index_map.ipynb) - A map of all the countries and their index score.
 
-- [Map](https://github.com/Lidetsal/MOD4_Project/blob/zj/freedom_index_map.ipynb) - A map of all the countries and their index score.
-
-- [Python File](https://github.com/Lidetsal/MOD4_Project/blob/zj/functions.py) - Holds useful varibales and functions.
+- [Python File](https://github.com/Lidetsal/MOD4_Project/blob/master/functions.py) - Holds useful varibales and functions.
 
 - [Human Freedom Map HTML](https://github.com/Lidetsal/MOD4_Project/blob/master/humanFreedomScoreMap.html) - Shows html code of the map created to shows all countries with their human freedom score.
 
-- [Regression](https://github.com/Lidetsal/MOD4_Project/blob/zj/regression.ipynb) - Shows 5 assumptions, training and testing sets, linear regression, and different transformations/comparisions of the data.
+- [Regression](https://github.com/Lidetsal/MOD4_Project/blob/master/regression.ipynb) - Shows 5 assumptions, training and testing sets, linear regression, and different transformations/comparisions of the data.
 
 
 
