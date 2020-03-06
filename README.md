@@ -4,6 +4,8 @@ Using the human freedom index, this project assessed the relationships between f
 ## Summary of Contents
 - [Data](https://github.com/Lidetsal/MOD4_Project/tree/master/Data) - Shows csv and json files of the data that has been used to create the project.
 
+- [Presentation](https://github.com/Lidetsal/MOD4_Project/blob/master/Presentation.pdf) - Non-Technical slideshow of all the information gathered from data exploration and regression testing.
+
 - [Cleaning Data](https://github.com/Lidetsal/MOD4_Project/blob/master/cleaning_data.ipynb) - Shows the process of cleaning the data.
 
 - [Exploratory Analysis](https://github.com/Lidetsal/MOD4_Project/blob/master/exploratory_data_analysis.ipynb) - Shows outliers, distributions, mean and standard deviation of the independent variable and dependent variable.
