@@ -3,7 +3,7 @@ Using the human freedom index, this project assessed the relationships between f
 
 Map of Countries Human Freedom Index Score:
 <p align="center">
-  <img src="https://giphy.com/gifs/iiaya89lpzjzqX3PH1">
+  <img src="https://media.giphy.com/media/iiaya89lpzjzqX3PH1/giphy.gif">
 </p>
 
 ## Summary of Contents
